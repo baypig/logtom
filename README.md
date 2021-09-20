@@ -1,10 +1,6 @@
 # logtom
 logtom
-# BiliBili公开课目录
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: Anti 996](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE) [![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-
-这是一份公开课的目录，这里的视频大多来自 YouTube 等国内无法访问的网站，为了方便国内的朋友观看，我将这些视频搬运到了 [Bilibili](https://space.bilibili.com/12721139)。
 
 ## 一点说明
 
@@ -558,16 +554,4 @@ logtom
 
 ---
 
-## 友情链接
 
-如果你在上面的目录中没有找到你需要的公开课，那么你可以在下面列出的链接中寻找。
-
-[长明-R](https://space.bilibili.com/532461): [课程总览](https://www.bilibili.com/read/cv1006774)
-
-[shtuka](https://space.bilibili.com/233271028): [B站课程有哪些值得上的那些youtube都没有的](https://www.bilibili.com/read/cv1569425)
-
-[77mathphy](https://space.bilibili.com/23023591)
-
-[local_ring](http://space.bilibili.com/51346944)
-
-[ikamusume酱](http://space.bilibili.com/261036)
